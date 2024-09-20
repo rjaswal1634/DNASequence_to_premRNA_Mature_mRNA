@@ -132,7 +132,7 @@ def write_output_to_file(sequence, filename):
 
 def main():
     # File_path will store the correct file name and its path
-    file_path = 'IndividualAssignment1CSSequence.txt'
+    file_path = 'DNASequence.txt'
 
     # Read the DNA sequence from the file
     dna_sequence = read_dna_sequence(file_path)
